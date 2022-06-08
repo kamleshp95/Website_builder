@@ -42,7 +42,7 @@ const Editor = () => {
       >
         <nav className="navbar navbar-light">
           <div className="container-fluid">
-            <span className="navbar-brand mb-0 h3 logo">Code Dexterous</span>
+            <span className="navbar-brand mb-0 h3 logo">Web Builder</span>
           </div>
         </nav>
         <PageSection pages={pages} />
