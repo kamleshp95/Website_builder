@@ -1,3 +1,3 @@
 # Live Preview
 
-[webuilder.netlify.app](webuilder.netlify.app).
+[webuilder.netlify.app](https://webuilder.netlify.app).
